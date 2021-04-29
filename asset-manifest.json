@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NBATradeEvaluation/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/NBATradeEvaluation/static/js/main.462b4981.chunk.js",
-    "main.js.map": "/NBATradeEvaluation/static/js/main.462b4981.chunk.js.map",
+    "main.js": "/NBATradeEvaluation/static/js/main.dfc69823.chunk.js",
+    "main.js.map": "/NBATradeEvaluation/static/js/main.dfc69823.chunk.js.map",
     "runtime-main.js": "/NBATradeEvaluation/static/js/runtime-main.642ea9f3.js",
     "runtime-main.js.map": "/NBATradeEvaluation/static/js/runtime-main.642ea9f3.js.map",
     "static/js/2.10118559.chunk.js": "/NBATradeEvaluation/static/js/2.10118559.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.642ea9f3.js",
     "static/js/2.10118559.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.462b4981.chunk.js"
+    "static/js/main.dfc69823.chunk.js"
   ]
 }
